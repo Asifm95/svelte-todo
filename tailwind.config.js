@@ -3,9 +3,12 @@ module.exports = {
     extend: {
       colors: {
         purple: '#6c63ff'
+      },
+      borderRadius: {
+        default: '6px'
       }
-    }
-  },
-  variants: {},
-  plugins: []
+    },
+    variants: {},
+    plugins: []
+  }
 };
